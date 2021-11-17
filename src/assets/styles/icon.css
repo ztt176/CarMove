@@ -1,0 +1,121 @@
+.el-icon-image-fabulous {
+    background: url(../images/praise.png) center no-repeat;
+    background-size: auto;
+    /* width: 14px; */
+}
+
+.el-icon-image-fabulous:before {
+    content: "\u8d5e";
+    font-size: 12px;
+    visibility: hidden;
+}
+
+.el-icon-image-eye {
+    background: url(../images/eye.png) center no-repeat;
+    background-size: auto;
+    /* width: 14px; */
+}
+
+.el-icon-image-eye:before {
+    content: "\u773c";
+    font-size: 12px;
+    visibility: hidden;
+}
+
+.el-icon-image-carselect {
+    background: url(../icons/png/carselect.png) center no-repeat;
+    background-size: auto;
+    width: 14px;
+    padding: 3px 0;
+}
+
+.el-icon-image-carselect:before {
+    content: "\u8f66";
+    font-size: 12px;
+    visibility: hidden;
+}
+
+.el-icon-image-realtime {
+    background: url(../icons/png/realtime.png) center no-repeat;
+    background-size: auto;
+    width: 18px;
+    border-radius: 50%;
+    background-color: #18A0FB;
+    padding: 3px;
+}
+
+.el-icon-image-realtime:before {
+    content: "\u5b9e";
+    font-size: 12px;
+    visibility: hidden;
+}
+
+.el-icon-image-exhibition {
+    background: url(../icons/png/exhibition.png) center no-repeat;
+    background-size: auto;
+    width: 12px;
+    padding: 0;
+    /* margin-right: 3px; */
+}
+
+.el-icon-image-exhibition:before {
+    content: "\u5c55";
+    font-size: 12px;
+    visibility: hidden;
+}
+
+.el-icon-image-history {
+    background: url(../icons/png/history.png) center no-repeat;
+    background-size: auto;
+    width: 18px;
+    border-radius: 50%;
+    background-color: #01C140;
+    padding: 3px;
+}
+
+.el-icon-image-history:before {
+    content: "\u5386";
+    font-size: 12px;
+    visibility: hidden;
+}
+
+.el-icon-image-layer {
+    background: url(../icons/png/layer.png) center no-repeat;
+    background-size: auto;
+    width: 18px;
+    margin-right: 3px;
+    padding: 5px 0;
+}
+
+.el-icon-image-layer:before {
+    content: "\u5c42";
+    font-size: 12px;
+    visibility: hidden;
+}
+
+.el-icon-image-map {
+    background: url(../icons/png/map.png) center no-repeat;
+    background-size: auto;
+    width: 18px;
+    margin-right: 3px;
+    padding: 5px 0;
+}
+
+.el-icon-image-map:before {
+    content: "\u5730";
+    font-size: 12px;
+    visibility: hidden;
+}
+
+.el-icon-image-picture {
+    background: url(../icons/png/picture.png) center no-repeat;
+    background-size: auto;
+    width: 12px;
+    /* margin-right: 3px; */
+}
+
+.el-icon-image-picture:before {
+    content: "\u4e8c";
+    font-size: 12px;
+    visibility: hidden;
+}
